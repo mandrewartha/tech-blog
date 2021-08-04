@@ -5,4 +5,4 @@ This site was made so that developers could post blog posts and connect with oth
 # Mock Up
 
 # Links
-This app is deployed at: 
+This app is deployed at:  https://mandrewartha.github.io/tech-blog/
